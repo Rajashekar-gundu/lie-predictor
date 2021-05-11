@@ -1,1 +1,1 @@
-# lie-predictor
+# life-predictor
